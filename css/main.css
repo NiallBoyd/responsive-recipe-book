@@ -89,6 +89,11 @@ footer {
   width: 50%;
 }
 
+.spcail {
+font-family: garamond-fb-display, serif;
+font-weight: 400;
+font-style: normal;
+}
 /* Navbar container */
 
 .navbar {
